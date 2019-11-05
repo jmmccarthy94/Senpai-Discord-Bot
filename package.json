@@ -1,0 +1,22 @@
+{
+  "name": "senpai-discord-bot",
+  "version": "1.0.0",
+  "description": "Learn Japanese with this discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmmccarthy94/Senpai-Discord-Bot.git"
+  },
+  "author": "Justin McCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmmccarthy94/Senpai-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/jmmccarthy94/Senpai-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
