@@ -13,7 +13,7 @@ var http = require('http');
 
 var jResponse = JSON;
 
-var j = schedule.scheduleJob('/0 * * * * *', () =>{
+var j = schedule.scheduleJob('* /8 * * *', () =>{
     //printDate();
     console.log('date printed');
     var kan = getKanji();
@@ -68,7 +68,7 @@ function printJSON(info) {
         readings = readings.slice(0, -3);
     }
     
-    client.channels.get('203349952783581184').send("The kanji of the day is: " + jResponse.kanji + "\nGrade level = " + jResponse.grade + readings);
+    client.channels.get('640999774123720705').send("The kanji of the day is: " + jResponse.kanji + "\nGrade level = " + jResponse.grade + readings);
 }
 
 function getKanji() {
@@ -136,7 +136,7 @@ function printDate() {
         marker = "th";
     }
 
-    client.channels.get('203349952783581184').send(monthNames[monthIndex] + ' ' + day + marker + ' ' + year);
+    client.channels.get('640999774123720705').send(monthNames[monthIndex] + ' ' + day + marker + ' ' + year);
 }
 
 client.on('message', message => {
