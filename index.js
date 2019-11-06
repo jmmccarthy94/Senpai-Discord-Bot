@@ -9,10 +9,9 @@ client.once('ready', () => {
 })
 
 var schedule = require('node-schedule');
-
 var http = require('http');
 
-let data = '';
+var jResponse = JSON;
 
 var j = schedule.scheduleJob('/0 * * * * *', () =>{
     //printDate();
@@ -33,7 +32,7 @@ var j = schedule.scheduleJob('/0 * * * * *', () =>{
       }).end();
 
       setTimeout(func1, 3000);
-      console.log(jResponse);
+      //console.log(jResponse);
 });
 
 function func1(){
