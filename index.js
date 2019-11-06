@@ -16,17 +16,18 @@ var jResponse = JSON;
 var j = schedule.scheduleJob('/0 * * * * *', () =>{
     //printDate();
     console.log('date printed');
+    var kan = getKanji();
+    var link = '/v1/kanji/' + kan;
     var options = {
         host: 'kanjiapi.dev',
         port: '80',
-        path: encodeURI('/v1/kanji/貯'),
+        path: encodeURI(link),
         method: 'GET'
       };
 
     var req = http.request(options, function(res) {
         res.setEncoding('utf8');
         res.on('data', function (chunk) {
-            //console.log('BODY: ' + chunk);
             jResponse = JSON.parse(chunk);
             printJSON(jResponse);   
         });
@@ -44,6 +45,40 @@ function printJSON(info) {
     if(jResponse.name_readings.length != 0){ client.channels.get('203349952783581184').send("Name Reading: " + jResponse.name_readings);}
 }
 
+function getKanji() {
+    switch(Math.floor((Math.random() * 7) + 1) % grade1.length){
+        case 1:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade1.length;
+            return grade1[ran];
+            break;    
+        case 2:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade2.length;
+            return grade2[ran];
+            break;    
+        case 3:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade3.length;
+            return grade3[ran];
+            break;    
+        case 4:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade4.length;
+            return grade4[ran];
+            break;    
+        case 5:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade5.length;
+            return grade5[ran];
+            break;    
+        case 6:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade6.length;
+            return grade6[ran];
+            break;    
+        case 7:
+            var ran = Math.floor((Math.random() * 10) + 1) % grade7.length;
+            return grade7[ran];
+            break;    
+        default:   
+            console.log("ERRER");
+    }
+}
 /*
 const listener = () => {
     // Ask kanjiapi instance for data again and trigger UI redraws
