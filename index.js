@@ -24,22 +24,25 @@ var j = schedule.scheduleJob('/0 * * * * *', () =>{
       };
 
     var req = http.request(options, function(res) {
-        //res.setEncoding('utf8');
+        res.setEncoding('utf8');
         res.on('data', function (chunk) {
-          //console.log('BODY: ' + chunk);
-          jResponse = JSON.parse(chunk);
+            //console.log('BODY: ' + chunk);
+            jResponse = JSON.parse(chunk);
+            printJSON(jResponse);   
         });
       }).end();
 
-      setTimeout(func1, 3000);
-      //console.log(jResponse);
 });
 
-function func1(){
-    console.log(jResponse);
+function printJSON(info) {
+    console.log(info);
+    client.channels.get('203349952783581184').send("The kanji of the day is: ," + jResponse.kanji + "\nGrade level = " + jResponse.grade
+    + "\nMeaning: " + jResponse.meanings);
+
+    if(jResponse.kun_readings.length != 0){ client.channels.get('203349952783581184').send("Kun Reading: " + jResponse.kun_readings);}
+    if(jResponse.on_readings.length != 0){ client.channels.get('203349952783581184').send("On Reading: " + jResponse.on_readings);}
+    if(jResponse.name_readings.length != 0){ client.channels.get('203349952783581184').send("Name Reading: " + jResponse.name_readings);}
 }
-
-
 
 /*
 const listener = () => {
