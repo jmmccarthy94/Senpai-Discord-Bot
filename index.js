@@ -37,12 +37,38 @@ var j = schedule.scheduleJob('/0 * * * * *', () =>{
 
 function printJSON(info) {
     console.log(info);
-    client.channels.get('203349952783581184').send("The kanji of the day is: " + jResponse.kanji + "\nGrade level = " + jResponse.grade
-    + "\nMeaning: " + jResponse.meanings);
-
-    if(jResponse.kun_readings.length != 0){ client.channels.get('203349952783581184').send("Kun Reading: " + jResponse.kun_readings);}
-    if(jResponse.on_readings.length != 0){ client.channels.get('203349952783581184').send("On Reading: " + jResponse.on_readings);}
-    if(jResponse.name_readings.length != 0){ client.channels.get('203349952783581184').send("Name Reading: " + jResponse.name_readings);}
+    var readings = "";
+    var i;
+    if(jResponse.meanings.length != 0){
+        readings += "\nMeanings: ";
+        for(i = 0; i < jResponse.meanings.length; i++){
+            readings += jResponse.meanings[i] + ",  "
+        }
+        readings = readings.slice(0, -3);
+    }
+    if(jResponse.kun_readings.length != 0){ 
+        readings += "\nKun Reading: ";
+        for(i = 0; i < jResponse.kun_readings.length; i++){
+            readings += jResponse.kun_readings[i] + ",  ";
+        }
+        readings = readings.slice(0, -3);
+    }
+    if(jResponse.on_readings.length != 0){ 
+        readings += "\nOn Reading: ";
+        for(i = 0; i < jResponse.on_readings.length; i++){
+            readings += jResponse.on_readings[i] + ",  ";
+        }
+        readings = readings.slice(0, -3);
+    }
+    if(jResponse.name_readings.length != 0){
+        readings += "\nName Reading: ";
+        for(i = 0; i < jResponse.name_readings.length; i++){
+            readings += jResponse.name_readings[i] + ",  ";
+        }
+        readings = readings.slice(0, -3);
+    }
+    
+    client.channels.get('203349952783581184').send("The kanji of the day is: " + jResponse.kanji + "\nGrade level = " + jResponse.grade + readings);
 }
 
 function getKanji() {
