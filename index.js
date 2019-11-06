@@ -37,7 +37,7 @@ var j = schedule.scheduleJob('/0 * * * * *', () =>{
 
 function printJSON(info) {
     console.log(info);
-    client.channels.get('203349952783581184').send("The kanji of the day is: ," + jResponse.kanji + "\nGrade level = " + jResponse.grade
+    client.channels.get('203349952783581184').send("The kanji of the day is: " + jResponse.kanji + "\nGrade level = " + jResponse.grade
     + "\nMeaning: " + jResponse.meanings);
 
     if(jResponse.kun_readings.length != 0){ client.channels.get('203349952783581184').send("Kun Reading: " + jResponse.kun_readings);}
