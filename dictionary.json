@@ -1,0 +1,2663 @@
+{
+    "JapaneseDic": [
+        {
+            "English": "(female) siblings/sisters",
+            "Kata": "しまい",
+            "Romanji": "shimai",
+            "Kanji": "姉妹"
+        },
+        {
+            "English": "(male) siblings / brothers",
+            "Kata": "きょうだい",
+            "Romanji": "kyōdai",
+            "Kanji": "兄弟"
+        },
+        {
+            "English": "(my) body",
+            "Kata": "からだ",
+            "Romanji": "Karada",
+            "Kanji": "体"
+        },
+        {
+            "English": "a cold",
+            "Kata": "かぜ",
+            "Romanji": "Kaze",
+            "Kanji": "風邪"
+        },
+        {
+            "English": "afternoon, p.m.",
+            "Kata": "ごご",
+            "Romanji": "gogo",
+            "Kanji": "午後"
+        },
+        {
+            "English": "Airplane",
+            "Kata": "ひこうき",
+            "Romanji": "Hikōki",
+            "Kanji": "飛行機"
+        },
+        {
+            "English": "Airport",
+            "Kata": "くうこう",
+            "Romanji": "Kūkō",
+            "Kanji": "空港"
+        },
+        {
+            "English": "Alcohol",
+            "Kata": "さけ",
+            "Romanji": "sake",
+            "Kanji": "酒"
+        },
+        {
+            "English": "Also",
+            "Kata": "も",
+            "Romanji": "mo"
+        },
+        {
+            "English": "Always",
+            "Kata": "いつも",
+            "Romanji": "itsumo"
+        },
+        {
+            "English": "am / is / are called, my name is",
+            "Kata": "といいます",
+            "Romanji": "to īmasu",
+            "Kanji": "と言います"
+        },
+        {
+            "English": "am/is/are not",
+            "Kata": "ではありません",
+            "Romanji": "de wa arimasen"
+        },
+        {
+            "English": "America / The US",
+            "Kata": "アメリカ",
+            "Romanji": "amerika"
+        },
+        {
+            "English": "American (person)",
+            "Kata": "アメリカにほん",
+            "Romanji": "amerika jin",
+            "Kanji": "アメリカ人"
+        },
+        {
+            "English": "and",
+            "Kata": "と",
+            "Romanji": "to"
+        },
+        {
+            "English": "Animals",
+            "Kata": "どうぶつ",
+            "Romanji": "Dōbutsu",
+            "Kanji": "動物"
+        },
+        {
+            "English": "Anime",
+            "Kata": "アニメ",
+            "Romanji": "anime"
+        },
+        {
+            "English": "Apartment",
+            "Kata": "アパート",
+            "Romanji": "apāto"
+        },
+        {
+            "English": "Apple",
+            "Kata": "りんご",
+            "Romanji": "ringo"
+        },
+        {
+            "English": "April",
+            "Kata": "しがつ",
+            "Romanji": "shigatsu",
+            "Kanji": "四月"
+        },
+        {
+            "English": "around / about",
+            "Kata": "ごろ",
+            "Romanji": "goro"
+        },
+        {
+            "English": "at",
+            "Kata": "に",
+            "Romanji": "ni"
+        },
+        {
+            "English": "at / in /to",
+            "Kata": "に",
+            "Romanji": "ni"
+        },
+        {
+            "English": "August",
+            "Kata": "はちがつ",
+            "Romanji": "hachigatsu",
+            "Kanji": "八月"
+        },
+        {
+            "English": "Autumn",
+            "Kata": "あき",
+            "Romanji": "Aki",
+            "Kanji": "秋"
+        },
+        {
+            "English": "Back",
+            "Kata": "せなか",
+            "Romanji": "sanaka",
+            "Kanji": "背中"
+        },
+        {
+            "English": "Bag",
+            "Kata": "かばん",
+            "Romanji": "kaban"
+        },
+        {
+            "English": "Bakery",
+            "Kata": "ぱんや",
+            "Romanji": "Pan-ya",
+            "Kanji": "パン屋"
+        },
+        {
+            "English": "Bank",
+            "Kata": "ぎんこう",
+            "Romanji": "ginkō"
+        },
+        {
+            "English": "Baseball",
+            "Kata": "やきゅう",
+            "Romanji": "Yakyū",
+            "Kanji": "野球"
+        },
+        {
+            "English": "Bathtub",
+            "Kata": "ふろ",
+            "Romanji": "furo",
+            "Kanji": "風呂"
+        },
+        {
+            "English": "Bear",
+            "Kata": "くま",
+            "Romanji": "kuma",
+            "Kanji": "熊"
+        },
+        {
+            "English": "Bedroom",
+            "Kata": "しんしつ",
+            "Romanji": "shinshitsu",
+            "Kanji": "寝室"
+        },
+        {
+            "English": "Beef",
+            "Kata": "ぎゅうにく",
+            "Romanji": "Gyūniku",
+            "Kanji": "牛肉"
+        },
+        {
+            "English": "Beer",
+            "Kata": "ビール",
+            "Romanji": "Bīru"
+        },
+        {
+            "English": "Belt",
+            "Kata": "ベルト",
+            "Romanji": "beruto"
+        },
+        {
+            "English": "Bicycle",
+            "Kata": "じてんしゃ",
+            "Romanji": "Jitensha",
+            "Kanji": "自転車"
+        },
+        {
+            "English": "Big",
+            "Kata": " おおきい",
+            "Romanji": "Ōkī",
+            "Kanji": "大きい"
+        },
+        {
+            "English": "Bird",
+            "Kata": "とり",
+            "Romanji": "tori",
+            "Kanji": "鳥"
+        },
+        {
+            "English": "Birthday",
+            "Kata": "たんじょうび",
+            "Romanji": "Tanjōbi",
+            "Kanji": "誕生日"
+        },
+        {
+            "English": "Black",
+            "Kata": "くろい",
+            "Romanji": "Kuroi",
+            "Kanji": "黒い"
+        },
+        {
+            "English": "Blue",
+            "Kata": "あお",
+            "Romanji": "Ao",
+            "Kanji": "青い"
+        },
+        {
+            "English": "Book",
+            "Kata": "ほん",
+            "Romanji": "Hon",
+            "Kanji": "本"
+        },
+        {
+            "English": "Box",
+            "Kata": "はこ",
+            "Romanji": "Hako",
+            "Kanji": "箱"
+        },
+        {
+            "English": "Bread",
+            "Kata": "パン",
+            "Romanji": "pan"
+        },
+        {
+            "English": "Breakfast",
+            "Kata": "あさごはん",
+            "Romanji": "asa-go-han",
+            "Kanji": "朝ご飯"
+        },
+        {
+            "English": "Bridge",
+            "Kata": "はし",
+            "Romanji": "Hashi",
+            "Kanji": "橋"
+        },
+        {
+            "English": "Bright",
+            "Kata": "あかるく",
+            "Romanji": "Akaruku",
+            "Kanji": "明るく"
+        },
+        {
+            "English": "British (person)",
+            "Kata": "イギリスにほん",
+            "Romanji": "igirisu jin",
+            "Kanji": "イギリス人"
+        },
+        {
+            "English": "Brown",
+            "Kata": "ちゃいろ",
+            "Romanji": "Chairo",
+            "Kanji": "茶色"
+        },
+        {
+            "English": "Bus",
+            "Kata": "バス",
+            "Romanji": "Basu"
+        },
+        {
+            "English": "Busy",
+            "Kata": "いそが",
+            "Romanji": "isoga",
+            "Kanji": "忙しい"
+        },
+        {
+            "English": "Butter",
+            "Kata": "バター",
+            "Romanji": "Batā"
+        },
+        {
+            "English": "Button",
+            "Kata": "ボタン",
+            "Romanji": "botan"
+        },
+        {
+            "English": "Buy",
+            "Kata": "かいます",
+            "Romanji": "kaimasu",
+            "Kanji": "買います"
+        },
+        {
+            "English": "Cafe",
+            "Kata": "カフェ",
+            "Romanji": "Kafe"
+        },
+        {
+            "English": "Cake",
+            "Kata": "ケーキ",
+            "Romanji": "kēki"
+        },
+        {
+            "English": "Camera",
+            "Kata": "カメラ",
+            "Romanji": "Kamera"
+        },
+        {
+            "English": "Candy / sweets",
+            "Kata": "あめ",
+            "Romanji": "ame",
+            "Kanji": "飴"
+        },
+        {
+            "English": "cannot speak",
+            "Kata": "はなせません",
+            "Romanji": "hanasemasen",
+            "Kanji": "話せません"
+        },
+        {
+            "English": "Car",
+            "Kata": "くるま",
+            "Romanji": "Kuruma",
+            "Kanji": "車"
+        },
+        {
+            "English": "Cat",
+            "Kata": "ねこ",
+            "Romanji": "neko",
+            "Kanji": "猫"
+        },
+        {
+            "English": "Chair(s)",
+            "Kata": "いす",
+            "Romanji": "isu",
+            "Kanji": "椅子"
+        },
+        {
+            "English": "Chicken",
+            "Kata": "とりにく",
+            "Romanji": "Toriniku",
+            "Kanji": "鶏肉"
+        },
+        {
+            "English": "Child",
+            "Kata": "こども",
+            "Romanji": "kodomo",
+            "Kanji": "子供"
+        },
+        {
+            "English": "Chinese (person)",
+            "Kata": "ちゅうごく",
+            "Romanji": "chūgoku jin",
+            "Kanji": "中国人"
+        },
+        {
+            "English": "Chopstick",
+            "Kata": "おはし",
+            "Romanji": "Ohashi",
+            "Kanji": "お箸"
+        },
+        {
+            "English": "Cigeratte / tabacco",
+            "Kata": "タバコ",
+            "Romanji": "tabako"
+        },
+        {
+            "English": "Class / lesson",
+            "Kata": "じゅぎょう",
+            "Romanji": "Jugyō",
+            "Kanji": "授業"
+        },
+        {
+            "English": "Clock",
+            "Kata": "とけい",
+            "Romanji": "Tokei",
+            "Kanji": "時計"
+        },
+        {
+            "English": "Clothes",
+            "Kata": "ふく",
+            "Romanji": "Fuku",
+            "Kanji": "服"
+        },
+        {
+            "English": "Cloud",
+            "Kata": "くも",
+            "Romanji": "Kumo",
+            "Kanji": "雲"
+        },
+        {
+            "English": "Cloudy",
+            "Kata": "くもり",
+            "Romanji": "kumori",
+            "Kanji": "曇り"
+        },
+        {
+            "English": "Coat",
+            "Kata": "コート",
+            "Romanji": "Kōto"
+        },
+        {
+            "English": "Coffee",
+            "Kata": "コーヒー",
+            "Romanji": "Kōhī"
+        },
+        {
+            "English": "Cold",
+            "Kata": "つめたい",
+            "Romanji": "tsumetai",
+            "Kanji": "冷たい"
+        },
+        {
+            "English": "Colour",
+            "Kata": "いろ",
+            "Romanji": "Iro",
+            "Kanji": "色"
+        },
+        {
+            "English": "Computer",
+            "Kata": "パソコン",
+            "Romanji": "Pasokon"
+        },
+        {
+            "English": "Congratulations",
+            "Kata": "おめでとう",
+            "Romanji": "Omedetō",
+            "Kanji": "賀"
+        },
+        {
+            "English": "Cook",
+            "Kata": "りょうりします",
+            "Romanji": "Ryōri shimasu",
+            "Kanji": "料理します"
+        },
+        {
+            "English": "Cool",
+            "Kata": "すずしく",
+            "Romanji": "Suzushiku",
+            "Kanji": "涼しく"
+        },
+        {
+            "English": "Cow",
+            "Kata": "うし",
+            "Romanji": "Ushi",
+            "Kanji": "牛"
+        },
+        {
+            "English": "Cup",
+            "Kata": "コップ",
+            "Romanji": "Koppu"
+        },
+        {
+            "English": "Curry",
+            "Kata": "カレー",
+            "Romanji": "Karē"
+        },
+        {
+            "English": "Dad / father",
+            "Kata": "ちち",
+            "Romanji": "chichi",
+            "Kanji": "父"
+        },
+        {
+            "English": "Dangerous",
+            "Kata": "あぶない",
+            "Romanji": "Abunai",
+            "Kanji": "危ない"
+        },
+        {
+            "English": "Daughter",
+            "Kata": "むすめ",
+            "Romanji": "musume",
+            "Kanji": "娘"
+        },
+        {
+            "English": "Daytime",
+            "Kata": "ひる",
+            "Romanji": "hiru"
+        },
+        {
+            "English": "December",
+            "Kata": "じゅうにがつ",
+            "Romanji": "jūnigatsu",
+            "Kanji": "十二月"
+        },
+        {
+            "English": "Deer",
+            "Kata": "しか",
+            "Romanji": "Shika",
+            "Kanji": "鹿"
+        },
+        {
+            "English": "Delicious, good, tasty",
+            "Kata": "おいしい",
+            "Romanji": "oishī"
+        },
+        {
+            "English": "Desk(s)",
+            "Kata": "つくえ",
+            "Romanji": "tsukue",
+            "Kanji": "机"
+        },
+        {
+            "English": "Dictionary",
+            "Kata": "じしょ",
+            "Romanji": "Jisho",
+            "Kanji": "辞書"
+        },
+        {
+            "English": "Die / Died",
+            "Kata": "し",
+            "Romanji": "Shi",
+            "Kanji": "死"
+        },
+        {
+            "English": "difference",
+            "Kata": "ちがい",
+            "Romanji": "chigai",
+            "Kanji": "違い"
+        },
+        {
+            "English": "Difficult",
+            "Kata": "むずかしく",
+            "Romanji": "Muzukashiku",
+            "Kanji": "難しく"
+        },
+        {
+            "English": "Dining room / cafeteria",
+            "Kata": "しょくどう",
+            "Romanji": "shokudō",
+            "Kanji": "食堂"
+        },
+        {
+            "English": "Dinner",
+            "Kata": "ばんごはん",
+            "Romanji": "ban-go-han",
+            "Kanji": "晩ご飯"
+        },
+        {
+            "English": "Dirty",
+            "Kata": "きたない",
+            "Romanji": "kitanai",
+            "Kanji": "汚い"
+        },
+        {
+            "English": "Do not / cannot",
+            "Kata": "ません",
+            "Romanji": "masen"
+        },
+        {
+            "English": "do/does/will not eat",
+            "Kata": "たべません",
+            "Romanji": "tabemasen",
+            "Kanji": "食べません"
+        },
+        {
+            "English": "Doctor",
+            "Kata": "いし",
+            "Romanji": "Ishi",
+            "Kanji": "医者 "
+        },
+        {
+            "English": "Dog",
+            "Kata": "いぬ",
+            "Romanji": "inu",
+            "Kanji": "犬"
+        },
+        {
+            "English": "Dress",
+            "Kata": "ドレス",
+            "Romanji": "doresu"
+        },
+        {
+            "English": "Drink",
+            "Kata": "のむ",
+            "Romanji": "nomu",
+            "Kanji": "飲む"
+        },
+        {
+            "English": "Ear / Ears",
+            "Kata": "みみ",
+            "Romanji": "mimi",
+            "Kanji": "耳"
+        },
+        {
+            "English": "East",
+            "Kata": "あずま",
+            "Romanji": "Azuma",
+            "Kanji": "東"
+        },
+        {
+            "English": "Egg(s)",
+            "Kata": "たまご",
+            "Romanji": "tamago",
+            "Kanji": "卵"
+        },
+        {
+            "English": "Eight",
+            "Kata": "はち",
+            "Romanji": "hachi",
+            "Kanji": "八"
+        },
+        {
+            "English": "Electricity",
+            "Kata": "でんき",
+            "Romanji": "Denki",
+            "Kanji": "電気"
+        },
+        {
+            "English": "elementary / primary school",
+            "Kata": "しょうがく",
+            "Romanji": "shōgaku",
+            "Kanji": "小学"
+        },
+        {
+            "English": "Elevator",
+            "Kata": "エレベーター",
+            "Romanji": "erebētā"
+        },
+        {
+            "English": "Emoji",
+            "Kata": "えもじ",
+            "Romanji": "emoji"
+        },
+        {
+            "English": "Employee",
+            "Kata": "つとめて",
+            "Romanji": "Tsutomete",
+            "Kanji": "勤めて"
+        },
+        {
+            "English": "English (language)",
+            "Kata": "えいご",
+            "Romanji": "eigo",
+            "Kanji": "英語"
+        },
+        {
+            "English": "Entrence",
+            "Kata": "いりぐち",
+            "Romanji": "Iriguchi",
+            "Kanji": "入り口"
+        },
+        {
+            "English": "Everything",
+            "Kata": "なんでも",
+            "Romanji": "Nandemo",
+            "Kanji": "何でも"
+        },
+        {
+            "English": "Exactly, sharp, precisely",
+            "Kata": "ちょうど",
+            "Romanji": "chōdo"
+        },
+        {
+            "English": "Exams",
+            "Kata": "しけん",
+            "Romanji": "Shiken",
+            "Kanji": "試験"
+        },
+        {
+            "English": "Excuse me",
+            "Kata": "すみません",
+            "Romanji": "Sumimasen",
+            "Kanji": "済みません"
+        },
+        {
+            "English": "Excuse me / pardon me, I'm sorry",
+            "Kata": "すみません",
+            "Romanji": "sumimasen"
+        },
+        {
+            "English": "Exit",
+            "Kata": "でぐち",
+            "Romanji": "Deguchi",
+            "Kanji": "出口"
+        },
+        {
+            "English": "Expensive / tall / high",
+            "Kata": "たかい",
+            "Romanji": "takai",
+            "Kanji": "高い"
+        },
+        {
+            "English": "Eye",
+            "Kata": "め",
+            "Romanji": "me",
+            "Kanji": "目"
+        },
+        {
+            "English": "Face",
+            "Kata": "めん",
+            "Romanji": "Men",
+            "Kanji": "面"
+        },
+        {
+            "English": "Family",
+            "Kata": "かぞく",
+            "Romanji": "kazoku",
+            "Kanji": "家族"
+        },
+        {
+            "English": "Favorite food",
+            "Kata": "こうぶつ",
+            "Romanji": "Kōbutsu",
+            "Kanji": "好物"
+        },
+        {
+            "English": "February",
+            "Kata": "にがつ",
+            "Romanji": "nigatsu",
+            "Kanji": "二月"
+        },
+        {
+            "English": "Fermented Soybeans",
+            "Kata": "なっとう",
+            "Romanji": "nattō"
+        },
+        {
+            "English": "Fine / well",
+            "Kata": "げんき",
+            "Romanji": "genki",
+            "Kanji": "元気"
+        },
+        {
+            "English": "Fish",
+            "Kata": "さかな",
+            "Romanji": "sakana",
+            "Kanji": "魚"
+        },
+        {
+            "English": "Five",
+            "Kata": "ご",
+            "Romanji": "go",
+            "Kanji": "五"
+        },
+        {
+            "English": "Floor",
+            "Kata": "かい",
+            "Romanji": "Kai",
+            "Kanji": "階"
+        },
+        {
+            "English": "Flower",
+            "Kata": "はな",
+            "Romanji": "Hana",
+            "Kanji": "花 "
+        },
+        {
+            "English": "Foot / leg",
+            "Kata": "あし",
+            "Romanji": "Ashi",
+            "Kanji": "足"
+        },
+        {
+            "English": "foreign exchange student",
+            "Kata": "りゅうがくせい ",
+            "Romanji": "ryūgakusei",
+            "Kanji": "留学生"
+        },
+        {
+            "English": "Foreigner",
+            "Kata": "がいこくじん",
+            "Romanji": "gaikokujin",
+            "Kanji": "外国人"
+        },
+        {
+            "English": "Fork",
+            "Kata": "フォーク",
+            "Romanji": "Fōku"
+        },
+        {
+            "English": "Four",
+            "Kata": "よん",
+            "Romanji": "shi, yon",
+            "Kanji": "四"
+        },
+        {
+            "English": "Fox",
+            "Kata": "キツネ",
+            "Romanji": "kitsune",
+            "Kanji": "狐"
+        },
+        {
+            "English": "Friday",
+            "Kata": "きんようび",
+            "Romanji": "kinyōbi",
+            "Kanji": "金曜日 "
+        },
+        {
+            "English": "Friends",
+            "Kata": "ともだち",
+            "Romanji": "tomodachi",
+            "Kanji": "友達 "
+        },
+        {
+            "English": "from",
+            "Kata": "しゅっしん",
+            "Romanji": "shusshin",
+            "Kanji": "出身"
+        },
+        {
+            "English": "Fruit",
+            "Kata": "くだもの",
+            "Romanji": "kudamono"
+        },
+        {
+            "English": "Fun",
+            "Kata": "たのしく",
+            "Romanji": "Tanoshiku",
+            "Kanji": "楽しく"
+        },
+        {
+            "English": "Funny",
+            "Kata": "おもしろい",
+            "Romanji": "Omoshiroi",
+            "Kanji": "面白い"
+        },
+        {
+            "English": "Garden / yard",
+            "Kata": "にわ",
+            "Romanji": "niwa",
+            "Kanji": "庭"
+        },
+        {
+            "English": "Glove",
+            "Kata": "てぶくろ",
+            "Romanji": "Tebukuro",
+            "Kanji": "手袋"
+        },
+        {
+            "English": "Good bye",
+            "Kata": "さようなら",
+            "Romanji": "sayōnara"
+        },
+        {
+            "English": "Good evening",
+            "Kata": "こんばんは",
+            "Romanji": "konbanwa"
+        },
+        {
+            "English": "Good morning",
+            "Kata": "おはよう",
+            "Romanji": "ohayō"
+        },
+        {
+            "English": "Good night",
+            "Kata": "おやすみなさい",
+            "Romanji": "oyasuminasai"
+        },
+        {
+            "English": "Goodbye / farewell",
+            "Kata": "さようなら",
+            "Romanji": "sayōnara"
+        },
+        {
+            "English": "Gram",
+            "Kata": "グラム",
+            "Romanji": "guramu"
+        },
+        {
+            "English": "Grandchild / grandchildren",
+            "Kata": "まご",
+            "Romanji": "mago",
+            "Kanji": "孫"
+        },
+        {
+            "English": "Grapes",
+            "Kata": "ぶどう",
+            "Romanji": "Budō",
+            "Kanji": "葡萄"
+        },
+        {
+            "English": "Green",
+            "Kata": "みどりいろ",
+            "Romanji": "Midoriiro",
+            "Kanji": "緑色"
+        },
+        {
+            "English": "Green tea",
+            "Kata": "おちゃ",
+            "Romanji": "ocha",
+            "Kanji": "お茶"
+        },
+        {
+            "English": "Grey",
+            "Kata": "はいいろ",
+            "Romanji": "Haiiro",
+            "Kanji": "灰色"
+        },
+        {
+            "English": "Guitar",
+            "Kata": "ギター",
+            "Romanji": "Gitā"
+        },
+        {
+            "English": "Hair",
+            "Kata": "かみ",
+            "Romanji": "Kami",
+            "Kanji": "髪"
+        },
+        {
+            "English": "Hallway",
+            "Kata": "ろうか",
+            "Romanji": "Rōka",
+            "Kanji": "廊下"
+        },
+        {
+            "English": "Hand",
+            "Kata": "て",
+            "Romanji": "Te",
+            "Kanji": "手"
+        },
+        {
+            "English": "Hard",
+            "Kata": "むずかしい",
+            "Romanji": "Muzukashī",
+            "Kanji": "難しい"
+        },
+        {
+            "English": "Hat",
+            "Kata": "ぼうし",
+            "Romanji": "Bōshi",
+            "Kanji": "帽子"
+        },
+        {
+            "English": "Head",
+            "Kata": "あたま",
+            "Romanji": "Atama",
+            "Kanji": "頭 "
+        },
+        {
+            "English": "Heavy",
+            "Kata": "おもく",
+            "Romanji": "Omoku",
+            "Kanji": "重く"
+        },
+        {
+            "English": "Hello",
+            "Kata": "こんにちは",
+            "Romanji": "konnichiwa"
+        },
+        {
+            "English": "Hello, good day/afternoon",
+            "Kata": "こんにちは",
+            "Romanji": "kon'nichiwa"
+        },
+        {
+            "English": "Here you are / here you go",
+            "Kata": "どうぞ",
+            "Romanji": "dōzo"
+        },
+        {
+            "English": "High School",
+            "Kata": "こうこう",
+            "Romanji": "kōkō",
+            "Kanji": "高校"
+        },
+        {
+            "English": "Homework",
+            "Kata": "しゅくだい",
+            "Romanji": "Shukudai",
+            "Kanji": "宿題"
+        },
+        {
+            "English": "Horse",
+            "Kata": "うま",
+            "Romanji": "Uma",
+            "Kanji": "馬"
+        },
+        {
+            "English": "Hospital",
+            "Kata": "びょういん",
+            "Romanji": "Byōin",
+            "Kanji": "病院"
+        },
+        {
+            "English": "Hot",
+            "Kata": "あつい",
+            "Romanji": "atsui",
+            "Kanji": "熱い"
+        },
+        {
+            "English": "Hotel",
+            "Kata": "ホテル",
+            "Romanji": "Hoteru"
+        },
+        {
+            "English": "House",
+            "Kata": "いえ",
+            "Romanji": "ie",
+            "Kanji": "家"
+        },
+        {
+            "English": "How are you?",
+            "Kata": "おげんきですか",
+            "Romanji": "o genki desu ka",
+            "Kanji": "お元気ですか"
+        },
+        {
+            "English": "how many people?",
+            "Kata": "なにいじん",
+            "Romanji": "nanijin",
+            "Kanji": "何人"
+        },
+        {
+            "English": "How much?",
+            "Kata": "いくら",
+            "Romanji": "ikura"
+        },
+        {
+            "English": "Hundred",
+            "Kata": "ひゃく",
+            "Romanji": "hyaku",
+            "Kanji": "百"
+        },
+        {
+            "English": "Hurts",
+            "Kata": "いたい",
+            "Romanji": "Itai",
+            "Kanji": "痛い"
+        },
+        {
+            "English": "I / Me",
+            "Kata": "わたし , ぼく",
+            "Romanji": "watashi , boku",
+            "Kanji": "私 , 僕 "
+        },
+        {
+            "English": "I am, he/she/it is",
+            "Kata": "です",
+            "Romanji": "desu"
+        },
+        {
+            "English": "I'm back, I'm home",
+            "Kata": "ただいま",
+            "Romanji": "ta-dai-ma"
+        },
+        {
+            "English": "I'm Leaving",
+            "Kata": "行って きます",
+            "Romanji": "it-te-kimasu",
+            "Kanji": "行って きます"
+        },
+        {
+            "English": "I'm Sorry",
+            "Kata": "ごめんなさい",
+            "Romanji": "gomen'nasai"
+        },
+        {
+            "English": "indicates the subject",
+            "Kata": "が",
+            "Romanji": "ga"
+        },
+        {
+            "English": "indicates the topic",
+            "Kata": "は",
+            "Romanji": "wa"
+        },
+        {
+            "English": "Inexpensive / cheap",
+            "Kata": "やすい",
+            "Romanji": "yasui",
+            "Kanji": "安い"
+        },
+        {
+            "English": "isn't it",
+            "Kata": "ね",
+            "Romanji": "ne"
+        },
+        {
+            "English": "January",
+            "Kata": "いちげつ",
+            "Romanji": "ichigetsu",
+            "Kanji": "一月"
+        },
+        {
+            "English": "Japanese (language)",
+            "Kata": "にほんご",
+            "Romanji": "nihongo",
+            "Kanji": "日本語"
+        },
+        {
+            "English": "Japanese (person)",
+            "Kata": "にほん",
+            "Romanji": "nihon jin",
+            "Kanji": "日本人"
+        },
+        {
+            "English": "Japanese Currency (yen)",
+            "Kata": "えん",
+            "Romanji": "en",
+            "Kanji": "円"
+        },
+        {
+            "English": "Japanese Girl Blowjob",
+            "Kata": "水揚げ",
+            "Romanji": "mizuage"
+        },
+        {
+            "English": "July",
+            "Kata": "しちがつ",
+            "Romanji": "shichigatsu",
+            "Kanji": "七月"
+        },
+        {
+            "English": "June",
+            "Kata": "ろくがつ",
+            "Romanji": "rokugatsu",
+            "Kanji": "六月"
+        },
+        {
+            "English": "Kanji (chinese characters)",
+            "Kata": "かんじ",
+            "Romanji": "Kanji",
+            "Kanji": "漢字"
+        },
+        {
+            "English": "Karaoke",
+            "Kata": "カラオケ",
+            "Romanji": "karaoke",
+            "Kanji": "空オケ"
+        },
+        {
+            "English": "Key",
+            "Kata": "かぎ",
+            "Romanji": "Kagi",
+            "Kanji": "鍵"
+        },
+        {
+            "English": "Kimono",
+            "Kata": "きもの",
+            "Romanji": "Kimono",
+            "Kanji": "着物"
+        },
+        {
+            "English": "Kitchen",
+            "Kata": "だいところ",
+            "Romanji": "daidokoro",
+            "Kanji": "台所"
+        },
+        {
+            "English": "Kitten(s)",
+            "Kata": "こねこ",
+            "Romanji": "koneko",
+            "Kanji": "子猫"
+        },
+        {
+            "English": "Knife",
+            "Kata": "ナイフ",
+            "Romanji": "Naifu"
+        },
+        {
+            "English": "Kyoto",
+            "Kata": "きょうと",
+            "Romanji": "kyōto",
+            "Kanji": "京都"
+        },
+        {
+            "English": "Language",
+            "Kata": "ご",
+            "Romanji": "go",
+            "Kanji": "語"
+        },
+        {
+            "English": "Learn",
+            "Kata": "ならい",
+            "Romanji": "narai",
+            "Kanji": "習い"
+        },
+        {
+            "English": "Leather",
+            "Kata": "かわの",
+            "Romanji": "Kawa no",
+            "Kanji": "革の"
+        },
+        {
+            "English": "Left",
+            "Kata": "ひだり",
+            "Romanji": "Hidari",
+            "Kanji": "左"
+        },
+        {
+            "English": "Lemon",
+            "Kata": "レモン",
+            "Romanji": "Remon"
+        },
+        {
+            "English": "let's eat",
+            "Kata": "いただきます",
+            "Romanji": "itadakimasu"
+        },
+        {
+            "English": "Letter",
+            "Kata": "てがみ",
+            "Romanji": "Tegami",
+            "Kanji": "手紙"
+        },
+        {
+            "English": "Library",
+            "Kata": "としょかん",
+            "Romanji": "Toshokan",
+            "Kanji": "図書館"
+        },
+        {
+            "English": "Light",
+            "Kata": "かるい",
+            "Romanji": "Karui",
+            "Kanji": "軽井"
+        },
+        {
+            "English": "Like",
+            "Kata": "すき",
+            "Romanji": "suki"
+        },
+        {
+            "English": "Listen",
+            "Kata": "きき",
+            "Romanji": "Kiki",
+            "Kanji": "聞き"
+        },
+        {
+            "English": "Long",
+            "Kata": "ながい",
+            "Romanji": "Nagai",
+            "Kanji": "長い"
+        },
+        {
+            "English": "Love",
+            "Kata": "だいすき",
+            "Romanji": "Daisuki",
+            "Kanji": "大好き"
+        },
+        {
+            "English": "Luggage",
+            "Kata": "にもつ",
+            "Romanji": "Nimotsu",
+            "Kanji": "荷物"
+        },
+        {
+            "English": "Lunch",
+            "Kata": "ひるごはん",
+            "Romanji": "hiru-go-han",
+            "Kanji": "昼ご飯"
+        },
+        {
+            "English": "Lunchbox",
+            "Kata": "べんとう",
+            "Romanji": "bentō"
+        },
+        {
+            "English": "Manga",
+            "Kata": "まんが",
+            "Romanji": "manga"
+        },
+        {
+            "English": "Map",
+            "Kata": "ちず",
+            "Romanji": "chizu"
+        },
+        {
+            "English": "March",
+            "Kata": "さんがつ",
+            "Romanji": "sangatsu",
+            "Kanji": "三月"
+        },
+        {
+            "English": "May",
+            "Kata": "ごがつ",
+            "Romanji": "gogatsu",
+            "Kanji": "五月"
+        },
+        {
+            "English": "Meat",
+            "Kata": "にく",
+            "Romanji": "niku",
+            "Kanji": "肉"
+        },
+        {
+            "English": "Medicine",
+            "Kata": "くすり",
+            "Romanji": "Kusuri",
+            "Kanji": "薬"
+        },
+        {
+            "English": "Menu",
+            "Kata": "メニュー",
+            "Romanji": "me-nyū"
+        },
+        {
+            "English": "Meters",
+            "Kata": "メートル",
+            "Romanji": "mētoru"
+        },
+        {
+            "English": "middle school",
+            "Kata": "ちゅうがく",
+            "Romanji": "chūgaku",
+            "Kanji": "中学"
+        },
+        {
+            "English": "Mint",
+            "Kata": "ミント",
+            "Romanji": "Minto"
+        },
+        {
+            "English": "minute / minutes",
+            "Kata": "ぶん",
+            "Romanji": "bun",
+            "Kanji": "分"
+        },
+        {
+            "English": "Mirror",
+            "Kata": "かがみ",
+            "Romanji": "Kagami",
+            "Kanji": "鏡"
+        },
+        {
+            "English": "Mom / mother",
+            "Kata": "はは",
+            "Romanji": "haha",
+            "Kanji": "母"
+        },
+        {
+            "English": "Monday",
+            "Kata": "げつようび",
+            "Romanji": "getsuyōbi",
+            "Kanji": "月曜日"
+        },
+        {
+            "English": "Month",
+            "Kata": "つき",
+            "Romanji": "Tsuki",
+            "Kanji": "月"
+        },
+        {
+            "English": "morning / forenoon, a.m.",
+            "Kata": "ごぜん",
+            "Romanji": "gozen",
+            "Kanji": "午前"
+        },
+        {
+            "English": "Mountain",
+            "Kata": "やま",
+            "Romanji": "Yama",
+            "Kanji": "山"
+        },
+        {
+            "English": "Mouth",
+            "Kata": "くち",
+            "Romanji": "Kuchi",
+            "Kanji": "口"
+        },
+        {
+            "English": "Movie",
+            "Kata": "えいが",
+            "Romanji": "eiga",
+            "Kanji": "映画"
+        },
+        {
+            "English": "Mr / Ms / Mrs",
+            "Kata": "さん",
+            "Romanji": "san"
+        },
+        {
+            "English": "Music",
+            "Kata": "おんがく",
+            "Romanji": "ongaku",
+            "Kanji": "音楽"
+        },
+        {
+            "English": "My / Mine",
+            "Kata": "ぼくの  ,  わたしの",
+            "Romanji": "boku no , watashi no",
+            "Kanji": "僕の , 私の"
+        },
+        {
+            "English": "Name",
+            "Kata": "なまえ",
+            "Romanji": "namae",
+            "Kanji": "名前"
+        },
+        {
+            "English": "Newspaper",
+            "Kata": "しんぶん",
+            "Romanji": "Shinbun",
+            "Kanji": "新聞"
+        },
+        {
+            "English": "Nice to meet you",
+            "Kata": "はじめまして",
+            "Romanji": "hajimemashite"
+        },
+        {
+            "English": "Nice to meet you, treat me kindly",
+            "Kata": "よろしく",
+            "Romanji": "yoroshiku"
+        },
+        {
+            "English": "Night",
+            "Kata": "よる",
+            "Romanji": "Yoru",
+            "Kanji": "夜"
+        },
+        {
+            "English": "Nine",
+            "Kata": "きゅう",
+            "Romanji": "ku, kyū",
+            "Kanji": "九"
+        },
+        {
+            "English": "No",
+            "Kata": "いいえ",
+            "Romanji": "iie"
+        },
+        {
+            "English": "North",
+            "Kata": "きた",
+            "Romanji": "Kita",
+            "Kanji": "北"
+        },
+        {
+            "English": "Nose",
+            "Kata": "はな",
+            "Romanji": "Hana",
+            "Kanji": "鼻"
+        },
+        {
+            "English": "not",
+            "Kata": "ではありません",
+            "Romanji": "de wa arimasen"
+        },
+        {
+            "English": "November",
+            "Kata": "じゅういちがつ",
+            "Romanji": "jūichigatsu",
+            "Kanji": "十一月"
+        },
+        {
+            "English": "now",
+            "Kata": "いま",
+            "Romanji": "ima",
+            "Kanji": "今"
+        },
+        {
+            "English": "o'clock / hour",
+            "Kata": "じ",
+            "Romanji": "ji",
+            "Kanji": "時"
+        },
+        {
+            "English": "Obtober",
+            "Kata": "じゅうがつ",
+            "Romanji": "jūgatsu",
+            "Kanji": "十月"
+        },
+        {
+            "English": "Of",
+            "Kata": "の",
+            "Romanji": "no"
+        },
+        {
+            "English": "of course",
+            "Kata": "もちろん",
+            "Romanji": "mochiron"
+        },
+        {
+            "English": "Office, company, firm",
+            "Kata": "かいしゃ",
+            "Romanji": "kaisha",
+            "Kanji": "会社"
+        },
+        {
+            "English": "Older / big brother",
+            "Kata": "あに",
+            "Romanji": "ani",
+            "Kanji": "兄"
+        },
+        {
+            "English": "Older / big sister",
+            "Kata": "あね",
+            "Romanji": "ane",
+            "Kanji": "姉"
+        },
+        {
+            "English": "One",
+            "Kata": "いち",
+            "Romanji": "ichi",
+            "Kanji": "一"
+        },
+        {
+            "English": "one's height",
+            "Kata": "せ",
+            "Romanji": "Se",
+            "Kanji": "背"
+        },
+        {
+            "English": "Orange",
+            "Kata": "おれんじいろ",
+            "Romanji": "Orenji-iro",
+            "Kanji": "オレンジ色"
+        },
+        {
+            "English": "Osaka",
+            "Kata": "おおさか",
+            "Romanji": "ōsaka",
+            "Kanji": "大阪"
+        },
+        {
+            "English": "Outside",
+            "Kata": "そと",
+            "Romanji": "soto",
+            "Kanji": "外"
+        },
+        {
+            "English": "Pants / trousers",
+            "Kata": "パンツ",
+            "Romanji": "Pantsu"
+        },
+        {
+            "English": "Paper",
+            "Kata": "かみ",
+            "Romanji": "Kami",
+            "Kanji": "紙"
+        },
+        {
+            "English": "Parents",
+            "Kata": "りょうしん",
+            "Romanji": "ryōshin",
+            "Kanji": "両親"
+        },
+        {
+            "English": "Park",
+            "Kata": "こうえん",
+            "Romanji": "Kōen",
+            "Kanji": "公園"
+        },
+        {
+            "English": "Party",
+            "Kata": "パーティー",
+            "Romanji": "pātī"
+        },
+        {
+            "English": "Pen",
+            "Kata": "ペン",
+            "Romanji": "pen"
+        },
+        {
+            "English": "Pencil",
+            "Kata": "えんぴつ",
+            "Romanji": "enpitsu",
+            "Kanji": "鉛筆"
+        },
+        {
+            "English": "person",
+            "Kata": "じん",
+            "Romanji": "jin",
+            "Kanji": "人"
+        },
+        {
+            "English": "Pet(s)",
+            "Kata": "ペット",
+            "Romanji": "petto"
+        },
+        {
+            "English": "Phone",
+            "Kata": "でんわ",
+            "Romanji": "denwa"
+        },
+        {
+            "English": "Phone number",
+            "Kata": "てんわばんごう",
+            "Romanji": "Tenwabangō",
+            "Kanji": "電話番号"
+        },
+        {
+            "English": "Photo",
+            "Kata": "しゃしん",
+            "Romanji": "shashin",
+            "Kanji": "写真"
+        },
+        {
+            "English": "Piano",
+            "Kata": "ピアノ",
+            "Romanji": "Piano"
+        },
+        {
+            "English": "Picture",
+            "Kata": "がぞう",
+            "Romanji": "Gazō",
+            "Kanji": "画像"
+        },
+        {
+            "English": "Pigeon / Dove",
+            "Kata": "ハト",
+            "Romanji": "hato",
+            "Kanji": "鳩"
+        },
+        {
+            "English": "Pink",
+            "Kata": "ぴんくいろ",
+            "Romanji": "Pinkuiro",
+            "Kanji": "ピンク色"
+        },
+        {
+            "English": "Plate",
+            "Kata": "おさら",
+            "Romanji": "Osara",
+            "Kanji": "お皿"
+        },
+        {
+            "English": "Played",
+            "Kata": "あそびました",
+            "Romanji": "Asobimashita",
+            "Kanji": "遊びました"
+        },
+        {
+            "English": "Please - I wish/I beg of you",
+            "Kata": "おねがいします",
+            "Romanji": "onegai shimasu"
+        },
+        {
+            "English": "Please take care of me",
+            "Kata": "どうぞよろしくおねがいします",
+            "Romanji": "dōzo yoroshiku onegai shimasu"
+        },
+        {
+            "English": "Please, please give me, can I get, may I",
+            "Kata": "ください",
+            "Romanji": "kudasai"
+        },
+        {
+            "English": "Pocket",
+            "Kata": "ポケット",
+            "Romanji": "poketto"
+        },
+        {
+            "English": "Police Box",
+            "Kata": "こうばん",
+            "Romanji": "Kōban",
+            "Kanji": "交番"
+        },
+        {
+            "English": "Pond",
+            "Kata": "いけ",
+            "Romanji": "Ike",
+            "Kanji": "池"
+        },
+        {
+            "English": "Pool",
+            "Kata": "プール",
+            "Romanji": "pūru"
+        },
+        {
+            "English": "Pork",
+            "Kata": "ぶたにく",
+            "Romanji": "Butaniku",
+            "Kanji": "豚肉"
+        },
+        {
+            "English": "Puppy / Puppies",
+            "Kata": "こいぬ",
+            "Romanji": "koinu",
+            "Kanji": "子犬"
+        },
+        {
+            "English": "Purple",
+            "Kata": "むらさきいろ",
+            "Romanji": "Murasakiiro",
+            "Kanji": "紫色"
+        },
+        {
+            "English": "Purse / Handbag",
+            "Kata": "ハンドバッグ",
+            "Romanji": "handobaggu"
+        },
+        {
+            "English": "Question marker",
+            "Kata": "か",
+            "Romanji": "ka"
+        },
+        {
+            "English": "Ramen",
+            "Kata": "ラーメン",
+            "Romanji": "Rāmen"
+        },
+        {
+            "English": "Read",
+            "Kata": "よあ",
+            "Romanji": "Yomu",
+            "Kanji": "読む"
+        },
+        {
+            "English": "Red",
+            "Kata": "あか",
+            "Romanji": "Aka",
+            "Kanji": "赤い"
+        },
+        {
+            "English": "Refrigerator",
+            "Kata": "れいぞうこ",
+            "Romanji": "Reizōko",
+            "Kanji": "冷蔵庫"
+        },
+        {
+            "English": "Relatives",
+            "Kata": "しんせき",
+            "Romanji": "shinseki",
+            "Kanji": "親戚"
+        },
+        {
+            "English": "Restaurant",
+            "Kata": "レストラン",
+            "Romanji": "re-su-to-ra-n"
+        },
+        {
+            "English": "Rice / meal / meals",
+            "Kata": "ごはん",
+            "Romanji": "gohan",
+            "Kanji": "ご飯"
+        },
+        {
+            "English": "Right (direction)",
+            "Kata": "みぎ",
+            "Romanji": "Migi",
+            "Kanji": "右"
+        },
+        {
+            "English": "right now",
+            "Kata": "いまは",
+            "Romanji": "ima wa",
+            "Kanji": "今は"
+        },
+        {
+            "English": "right, correct",
+            "Kata": "よね",
+            "Romanji": "yone"
+        },
+        {
+            "English": "Ring",
+            "Kata": "ゆびわ",
+            "Romanji": "Yubiwa",
+            "Kanji": "指輪"
+        },
+        {
+            "English": "River",
+            "Kata": "かわ",
+            "Romanji": "Kawa",
+            "Kanji": "川"
+        },
+        {
+            "English": "Road / street",
+            "Kata": "みち",
+            "Romanji": "Michi",
+            "Kanji": "道"
+        },
+        {
+            "English": "Room",
+            "Kata": "へや",
+            "Romanji": "heya",
+            "Kanji": "部屋"
+        },
+        {
+            "English": "Run",
+            "Kata": "はしり",
+            "Romanji": "hashiri",
+            "Kanji": "走り"
+        },
+        {
+            "English": "Salty",
+            "Kata": "しょっぱい",
+            "Romanji": "Shoppai",
+            "Kanji": "塩っぱい"
+        },
+        {
+            "English": "Saturday",
+            "Kata": "どようび",
+            "Romanji": "doyōbi",
+            "Kanji": "土曜日"
+        },
+        {
+            "English": "Scary",
+            "Kata": "こわく",
+            "Romanji": "Kowaku",
+            "Kanji": "怖く"
+        },
+        {
+            "English": "School",
+            "Kata": "がっこう",
+            "Romanji": "gakkō",
+            "Kanji": "学校"
+        },
+        {
+            "English": "School grade / year",
+            "Kata": "ねんせい",
+            "Romanji": "nensei",
+            "Kanji": "年生"
+        },
+        {
+            "English": "Sea",
+            "Kata": "うみ",
+            "Romanji": "Umi",
+            "Kanji": "海"
+        },
+        {
+            "English": "See",
+            "Kata": "みる",
+            "Romanji": "Miru",
+            "Kanji": "見る"
+        },
+        {
+            "English": "See you later / bye",
+            "Kata": "またね",
+            "Romanji": "mata ne"
+        },
+        {
+            "English": "Septemeber",
+            "Kata": "くがつ",
+            "Romanji": "kugatsu",
+            "Kanji": "九月"
+        },
+        {
+            "English": "Seven",
+            "Kata": "しち or なな",
+            "Romanji": "shichi, nana",
+            "Kanji": "七"
+        },
+        {
+            "English": "Shirt",
+            "Kata": "シャツ",
+            "Romanji": "Shatsu"
+        },
+        {
+            "English": "Shoes",
+            "Kata": "くつ",
+            "Romanji": "Kutsu",
+            "Kanji": "靴 "
+        },
+        {
+            "English": "Shopping",
+            "Kata": "かいもの",
+            "Romanji": "Kaimono",
+            "Kanji": "買い物"
+        },
+        {
+            "English": "Short",
+            "Kata": "みじかい",
+            "Romanji": "Mijikai",
+            "Kanji": "短い"
+        },
+        {
+            "English": "Shower",
+            "Kata": "シャワー",
+            "Romanji": "shawā"
+        },
+        {
+            "English": "Sick",
+            "Kata": "シック",
+            "Romanji": "Shikku",
+            "Kanji": "病気"
+        },
+        {
+            "English": "Single, unmarried",
+            "Kata": "どくしん",
+            "Romanji": "Dokushin",
+            "Kanji": "独身"
+        },
+        {
+            "English": "Six",
+            "Kata": "ろく",
+            "Romanji": "roku",
+            "Kanji": "六"
+        },
+        {
+            "English": "Skirt",
+            "Kata": "スカート",
+            "Romanji": "Sukāto"
+        },
+        {
+            "English": "Sky",
+            "Kata": "そら",
+            "Romanji": "Sora",
+            "Kanji": "空"
+        },
+        {
+            "English": "Slow",
+            "Kata": "ゆっくり",
+            "Romanji": "Yukkuri"
+        },
+        {
+            "English": "Small",
+            "Kata": "しょうさい",
+            "Romanji": "Chīsai",
+            "Kanji": "小さい"
+        },
+        {
+            "English": "Smart",
+            "Kata": "あたまがいい",
+            "Romanji": "Atamagaī",
+            "Kanji": "頭がいい"
+        },
+        {
+            "English": "Snacks",
+            "Kata": "おかし",
+            "Romanji": "Okashi",
+            "Kanji": "お菓子"
+        },
+        {
+            "English": "Snow",
+            "Kata": "ゆき",
+            "Romanji": "Yuki",
+            "Kanji": "雪"
+        },
+        {
+            "English": "Soap",
+            "Kata": "せっけん",
+            "Romanji": "Sekken",
+            "Kanji": "石鹸"
+        },
+        {
+            "English": "Soccer",
+            "Kata": "サッカー",
+            "Romanji": "sakkā"
+        },
+        {
+            "English": "Socks",
+            "Kata": "くつした",
+            "Romanji": "Kutsushita",
+            "Kanji": "靴下"
+        },
+        {
+            "English": "Sometimes",
+            "Kata": "ときどき",
+            "Romanji": "tokidoki"
+        },
+        {
+            "English": "Son",
+            "Kata": "むすこ",
+            "Romanji": "musoko",
+            "Kanji": "息子 "
+        },
+        {
+            "English": "Song",
+            "Kata": "うた",
+            "Romanji": "uta",
+            "Kanji": "歌"
+        },
+        {
+            "English": "Sorry",
+            "Kata": "ごめん",
+            "Romanji": "gomen",
+            "Kanji": "御免"
+        },
+        {
+            "English": "Soup",
+            "Kata": "スープ",
+            "Romanji": "Sūpu"
+        },
+        {
+            "English": "Sour",
+            "Kata": "すっぱい",
+            "Romanji": "Suppai"
+        },
+        {
+            "English": "South",
+            "Kata": "みなみ",
+            "Romanji": "Minami",
+            "Kanji": "南"
+        },
+        {
+            "English": "Spicy",
+            "Kata": "からい",
+            "Romanji": "karai",
+            "Kanji": "辛い"
+        },
+        {
+            "English": "Spoon",
+            "Kata": "スプー",
+            "Romanji": "Supū"
+        },
+        {
+            "English": "Sports",
+            "Kata": "スポーツ",
+            "Romanji": "Supōtsu"
+        },
+        {
+            "English": "Spring",
+            "Kata": "はる",
+            "Romanji": "Haru",
+            "Kanji": "春"
+        },
+        {
+            "English": "Stairs",
+            "Kata": "かいだん",
+            "Romanji": "Kaidan",
+            "Kanji": "階段"
+        },
+        {
+            "English": "Stomach",
+            "Kata": "おなか",
+            "Romanji": "Onaka",
+            "Kanji": "お腹"
+        },
+        {
+            "English": "Stop",
+            "Kata": "とまって",
+            "Romanji": "Tomatte",
+            "Kanji": "止まって"
+        },
+        {
+            "English": "Store",
+            "Kata": "みせ",
+            "Romanji": "Mise",
+            "Kanji": "店"
+        },
+        {
+            "English": "Student",
+            "Kata": "がくせい",
+            "Romanji": "gakusei",
+            "Kanji": "学生"
+        },
+        {
+            "English": "Study",
+            "Kata": "べんきょう",
+            "Romanji": "benkyō",
+            "Kanji": "勉強"
+        },
+        {
+            "English": "Subway / metro",
+            "Kata": "ちかてつ",
+            "Romanji": "Chikatetsu",
+            "Kanji": "地下鉄"
+        },
+        {
+            "English": "Summer",
+            "Kata": "なつ",
+            "Romanji": "natsu",
+            "Kanji": "夏"
+        },
+        {
+            "English": "Sunday",
+            "Kata": "にちようび",
+            "Romanji": "nichiyōbi",
+            "Kanji": "日曜日"
+        },
+        {
+            "English": "Sunny",
+            "Kata": "はれ",
+            "Romanji": "hare"
+        },
+        {
+            "English": "Sushi",
+            "Kata": "ふゆ",
+            "Romanji": "fuyu",
+            "Kanji": "寿司"
+        },
+        {
+            "English": "Sweater",
+            "Kata": "セーター",
+            "Romanji": "Sētā"
+        },
+        {
+            "English": "Sweet",
+            "Kata": "あまい",
+            "Romanji": "amai",
+            "Kanji": "甘い"
+        },
+        {
+            "English": "Swim",
+            "Kata": "およぎ",
+            "Romanji": "oyogi",
+            "Kanji": "泳ぎ"
+        },
+        {
+            "English": "table",
+            "Kata": "テーブル",
+            "Romanji": "teburu"
+        },
+        {
+            "English": "Table(s)",
+            "Kata": "テーブル",
+            "Romanji": "tēburu"
+        },
+        {
+            "English": "Take",
+            "Kata": "とります",
+            "Romanji": "Torimasu",
+            "Kanji": "撮ります"
+        },
+        {
+            "English": "Take care, have a good day, have fun",
+            "Kata": "行ってらっしゃい",
+            "Romanji": "it-te-ras-shai ",
+            "Kanji": "行ってらっしゃい"
+        },
+        {
+            "English": "Tastes bad",
+            "Kata": "まずい",
+            "Romanji": "mazui"
+        },
+        {
+            "English": "Taxi",
+            "Kata": "タクシ",
+            "Romanji": "Takushi"
+        },
+        {
+            "English": "Teacher",
+            "Kata": "せんせい",
+            "Romanji": "sensei",
+            "Kanji": "先生"
+        },
+        {
+            "English": "Telephone",
+            "Kata": "でんわ",
+            "Romanji": "Denwa",
+            "Kanji": "電話"
+        },
+        {
+            "English": "Television",
+            "Kata": "テレビ",
+            "Romanji": "Terebi"
+        },
+        {
+            "English": "Tempura",
+            "Kata": "てんぷら",
+            "Romanji": "tenpura"
+        },
+        {
+            "English": "Ten",
+            "Kata": "じゅう",
+            "Romanji": "juu",
+            "Kanji": "十"
+        },
+        {
+            "English": "Ten Thousand",
+            "Kata": "まん",
+            "Romanji": "man",
+            "Kanji": "万"
+        },
+        {
+            "English": "Tennis",
+            "Kata": "テニス",
+            "Romanji": "tenisu"
+        },
+        {
+            "English": "Teriyaki",
+            "Kata": "てりやき",
+            "Romanji": "Teriyaki",
+            "Kanji": "照り焼き"
+        },
+        {
+            "English": "Thank you",
+            "Kata": "ありがとうございました",
+            "Romanji": "Arigatōgozaimashita"
+        },
+        {
+            "English": "Thank you (formal)",
+            "Kata": "ありがとうございます",
+            "Romanji": "arigatō-gozaimasu"
+        },
+        {
+            "English": "Thank you (used by friends)",
+            "Kata": "ありがとう",
+            "Romanji": "arigatō"
+        },
+        {
+            "English": "Thank you for the meal",
+            "Kata": "ごちそうさまでした",
+            "Romanji": "gochisōsamadeshita"
+        },
+        {
+            "English": "Thank you very much",
+            "Kata": "どうもありがとう",
+            "Romanji": "dōmo-arigatō"
+        },
+        {
+            "English": "Thanks",
+            "Kata": "どうも",
+            "Romanji": "dōmo"
+        },
+        {
+            "English": "That / that one",
+            "Kata": "それ",
+            "Romanji": "sore"
+        },
+        {
+            "English": "That / that one (over there)",
+            "Kata": "あれ",
+            "Romanji": "are"
+        },
+        {
+            "English": "that is right",
+            "Kata": "そうです",
+            "Romanji": "sōdesu"
+        },
+        {
+            "English": "The day after tomorrow",
+            "Kata": "あさって",
+            "Romanji": "asatte",
+            "Kanji": "明後日"
+        },
+        {
+            "English": "The day before yesterday",
+            "Kata": "おととい",
+            "Romanji": "ototoi",
+            "Kanji": "一昨日"
+        },
+        {
+            "English": "then",
+            "Kata": "では",
+            "Romanji": "dewa"
+        },
+        {
+            "English": "they (female)",
+            "Kata": "かのじょ-たち",
+            "Romanji": "kanojo-tachi",
+            "Kanji": "彼女たち"
+        },
+        {
+            "English": "they (male)",
+            "Kata": "かれ-ら",
+            "Romanji": "kare-ra",
+            "Kanji": "彼ら"
+        },
+        {
+            "English": "Thirty / half past",
+            "Kata": "はん",
+            "Romanji": "han",
+            "Kanji": "半"
+        },
+        {
+            "English": "This / this one",
+            "Kata": "これ",
+            "Romanji": "kore"
+        },
+        {
+            "English": "this is not right",
+            "Kata": "ちがいます",
+            "Romanji": "chigaimasu",
+            "Kanji": "違います"
+        },
+        {
+            "English": "Thousand",
+            "Kata": "せん",
+            "Romanji": "sen",
+            "Kanji": "千"
+        },
+        {
+            "English": "Three",
+            "Kata": "さん",
+            "Romanji": "san",
+            "Kanji": "三"
+        },
+        {
+            "English": "Thursday",
+            "Kata": "もくようび",
+            "Romanji": "mokuyōbi",
+            "Kanji": "木曜日"
+        },
+        {
+            "English": "Ticket",
+            "Kata": "きっぷ",
+            "Romanji": "kippu"
+        },
+        {
+            "English": "Tired",
+            "Kata": "つかれて",
+            "Romanji": "Tsukarete",
+            "Kanji": "疲れて"
+        },
+        {
+            "English": "to",
+            "Kata": "へ",
+            "Romanji": "he"
+        },
+        {
+            "English": "to be called",
+            "Kata": "もうし",
+            "Romanji": "mōshi",
+            "Kanji": "申し"
+        },
+        {
+            "English": "to drink",
+            "Kata": "のみ",
+            "Romanji": "nomi",
+            "Kanji": "飲み"
+        },
+        {
+            "English": "To eat",
+            "Kata": "たべます",
+            "Romanji": "Tabe(masu)",
+            "Kanji": "食べ(ます)"
+        },
+        {
+            "English": "to go",
+            "Kata": "いき",
+            "Romanji": "iki",
+            "Kanji": "行き"
+        },
+        {
+            "English": "to go on walks",
+            "Kata": "さんぽ",
+            "Romanji": "Sanpo",
+            "Kanji": "散歩"
+        },
+        {
+            "English": "to live",
+            "Kata": "すん",
+            "Romanji": "sun",
+            "Kanji": "住ん"
+        },
+        {
+            "English": "to sleep",
+            "Kata": "んえ",
+            "Romanji": "ne",
+            "Kanji": "寝"
+        },
+        {
+            "English": "to speak",
+            "Kata": "はなせ",
+            "Romanji": "hanase",
+            "Kanji": "話せ"
+        },
+        {
+            "English": "To you as well / likewise",
+            "Kata": "こちらこそ",
+            "Romanji": "kochira koso"
+        },
+        {
+            "English": "Today",
+            "Kata": "おちゃ",
+            "Romanji": "ocha"
+        },
+        {
+            "English": "Toilet / bathroom / restroom",
+            "Kata": "トイレ",
+            "Romanji": "toire"
+        },
+        {
+            "English": "Tokyo",
+            "Kata": "とうきょう",
+            "Romanji": "tōkyō",
+            "Kanji": "東京"
+        },
+        {
+            "English": "Tomorrow",
+            "Kata": "あした",
+            "Romanji": "ashita",
+            "Kanji": "明日"
+        },
+        {
+            "English": "Town",
+            "Kata": "まち",
+            "Romanji": "Machi",
+            "Kanji": "町"
+        },
+        {
+            "English": "Train",
+            "Kata": "でんしゃ",
+            "Romanji": "Densha",
+            "Kanji": "電車"
+        },
+        {
+            "English": "Train Station",
+            "Kata": "てつどうえき",
+            "Romanji": "Tetsudō-eki",
+            "Kanji": "鉄道駅"
+        },
+        {
+            "English": "Travel",
+            "Kata": "りょこう",
+            "Romanji": "ryokō",
+            "Kanji": "旅行"
+        },
+        {
+            "English": "Tree",
+            "Kata": "き",
+            "Romanji": "Ki",
+            "Kanji": "木"
+        },
+        {
+            "English": "Tuesday",
+            "Kata": "かようび",
+            "Romanji": "kayōbi",
+            "Kanji": "火曜日"
+        },
+        {
+            "English": "Two",
+            "Kata": "に",
+            "Romanji": "ni",
+            "Kanji": "二"
+        },
+        {
+            "English": "um , ah",
+            "Kata": "あの",
+            "Romanji": "ano"
+        },
+        {
+            "English": "Umbrella",
+            "Kata": "かさ",
+            "Romanji": "Kasa",
+            "Kanji": "傘"
+        },
+        {
+            "English": "Underwear",
+            "Kata": "したぎ",
+            "Romanji": "Shitagi",
+            "Kanji": "下着"
+        },
+        {
+            "English": "Uniform",
+            "Kata": "せいふく",
+            "Romanji": "Seifuku",
+            "Kanji": "制服"
+        },
+        {
+            "English": "University",
+            "Kata": "だいがく",
+            "Romanji": "daigaku",
+            "Kanji": "大学"
+        },
+        {
+            "English": "Vegetables",
+            "Kata": "やさい",
+            "Romanji": "yasai",
+            "Kanji": "野菜"
+        },
+        {
+            "English": "Very much",
+            "Kata": "ございます",
+            "Romanji": "gozaimasu"
+        },
+        {
+            "English": "Village",
+            "Kata": "むら",
+            "Romanji": "Mura",
+            "Kanji": "村"
+        },
+        {
+            "English": "wake / get up",
+            "Kata": "おき",
+            "Romanji": "oki",
+            "Kanji": "起き"
+        },
+        {
+            "English": "Wallet",
+            "Kata": "さいふ",
+            "Romanji": "Saifu",
+            "Kanji": "財布"
+        },
+        {
+            "English": "Warm",
+            "Kata": "あったかい",
+            "Romanji": "Attakai",
+            "Kanji": "暖かい"
+        },
+        {
+            "English": "Watch",
+            "Kata": "うでどけい",
+            "Romanji": "Udedokei",
+            "Kanji": "腕時計"
+        },
+        {
+            "English": "Water",
+            "Kata": "みず",
+            "Romanji": "mizu",
+            "Kanji": "水"
+        },
+        {
+            "English": "We",
+            "Kata": "わたし-たち",
+            "Romanji": "watashi-tachi",
+            "Kanji": "私たち"
+        },
+        {
+            "English": "Wear",
+            "Kata": "きる",
+            "Romanji": "Kiru",
+            "Kanji": "着る"
+        },
+        {
+            "English": "Weather",
+            "Kata": "てんき",
+            "Romanji": "Tenki",
+            "Kanji": "天気"
+        },
+        {
+            "English": "Wednesday",
+            "Kata": "すいようび",
+            "Romanji": "suiyōbi",
+            "Kanji": "水曜日"
+        },
+        {
+            "English": "Weekdays",
+            "Kata": "へいじつ",
+            "Romanji": "heijitsu",
+            "Kanji": "平日"
+        },
+        {
+            "English": "Weekends",
+            "Kata": "しゅうまつ",
+            "Romanji": "shūmatsu",
+            "Kanji": "週末"
+        },
+        {
+            "English": "Welcome back / welcome home",
+            "Kata": "おかえりなさい",
+            "Romanji": "okaerinasai"
+        },
+        {
+            "English": "Well then",
+            "Kata": "じゃ",
+            "Romanji": "ja"
+        },
+        {
+            "English": "West",
+            "Kata": "にし",
+            "Romanji": "Nishi",
+            "Kanji": "西"
+        },
+        {
+            "English": "What time?",
+            "Kata": "なんじ",
+            "Romanji": "nan ji",
+            "Kanji": "何時"
+        },
+        {
+            "English": "What?",
+            "Kata": "なに",
+            "Romanji": "nani",
+            "Kanji": "何"
+        },
+        {
+            "English": "which / which one",
+            "Kata": "どれ",
+            "Romanji": "dore"
+        },
+        {
+            "English": "White",
+            "Kata": "しろ",
+            "Romanji": "Shiro",
+            "Kanji": "白"
+        },
+        {
+            "English": "Wind",
+            "Kata": "かぜ",
+            "Romanji": "kaze"
+        },
+        {
+            "English": "window",
+            "Kata": "まど",
+            "Romanji": "mado",
+            "Kanji": "窓"
+        },
+        {
+            "English": "Wine",
+            "Kata": "ワイン",
+            "Romanji": "Wain"
+        },
+        {
+            "English": "Winter",
+            "Kata": "ふゆ",
+            "Romanji": "Fuyu",
+            "Kanji": "冬"
+        },
+        {
+            "English": "Word",
+            "Kata": "ことば",
+            "Romanji": "Kotoba",
+            "Kanji": "言葉"
+        },
+        {
+            "English": "Write",
+            "Kata": "かく",
+            "Romanji": "Kaku",
+            "Kanji": "書く"
+        },
+        {
+            "English": "years old",
+            "Kata": "さい",
+            "Romanji": "sai",
+            "Kanji": "歳"
+        },
+        {
+            "English": "Yellow",
+            "Kata": "きいろい",
+            "Romanji": "Kiiroi",
+            "Kanji": "黄色い"
+        },
+        {
+            "English": "Yes",
+            "Kata": "はい  /  ええ",
+            "Romanji": "hai / ee"
+        },
+        {
+            "English": "Yesterday",
+            "Kata": "きのう",
+            "Romanji": "kinō",
+            "Kanji": "昨日"
+        },
+        {
+            "English": "you know",
+            "Kata": "よ",
+            "Romanji": "yoroshiku"
+        },
+        {
+            "English": "You're welcome / my pleasure",
+            "Kata": "どういたしまして",
+            "Romanji": "dōitashimashite"
+        },
+        {
+            "English": "Youger sister",
+            "Kata": "いもうと",
+            "Romanji": "imōto",
+            "Kanji": "妹"
+        },
+        {
+            "English": "Younger brother",
+            "Kata": "おとうと",
+            "Romanji": "otōto",
+            "Kanji": "弟"
+        },
+        {
+            "English": "Yukata (lightweight robe)",
+            "Kata": "ゆかた",
+            "Romanji": "Yukata",
+            "Kanji": "浴衣"
+        },
+        {
+            "English": "Zero",
+            "Kata": "ゼロ",
+            "Romanji": "zero",
+            "Kanji": "零"
+        },
+        {
+            "English": "Zoo",
+            "Kata": "どうぶつえん",
+            "Romanji": "Dōbu~tsuen",
+            "Kanji": "動物園"
+        }
+    ]
+}
